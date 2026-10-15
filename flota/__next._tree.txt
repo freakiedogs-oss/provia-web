@@ -1,2 +1,2 @@
-:HL["/provia-web/_next/static/chunks/29vy2saneavk5.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"flota","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"GOEbCxbjhuSTCzmmq-qCO"}
+:HL["/provia-web/_next/static/chunks/04b0dgf_uc0ep.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"flota","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"hm0jY0cHAybS8L6zVxE8f"}
